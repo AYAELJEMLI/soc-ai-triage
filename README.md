@@ -64,7 +64,15 @@ P3       32  10.0.0.60              3  T1046
 ```
 
 Rapport complet : [`examples/rapport-exemple.md`](examples/rapport-exemple.md).
+## Captures
 
+Rapport d'incidents généré par l'outil :
+
+![Rapport de triage](images/rapport-triage.png)
+
+Vue d'ensemble des incidents (page HTML réalisée à partir du rapport) :
+
+![Dashboard](images/dashboard.png)
 ## Tests
 
 ```bash
