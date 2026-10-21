@@ -68,11 +68,11 @@ Rapport complet : [`examples/rapport-exemple.md`](examples/rapport-exemple.md).
 
 Rapport d'incidents généré par l'outil :
 
-![Rapport de triage](images/rapport-triage.png)
+![Rapport de triage](Images/rapport-triage.png.jpeg)
 
 Vue d'ensemble des incidents (page HTML réalisée à partir du rapport) :
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/dashboard.png.png   )
 ## Tests
 
 ```bash
